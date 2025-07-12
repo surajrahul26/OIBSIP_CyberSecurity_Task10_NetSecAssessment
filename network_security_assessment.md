@@ -1,8 +1,7 @@
-# Network Security Assessment Report
+# Network Security Assessment Report (TASK 10)
 
 **Date:** July 12, 2025  
-**Author:** Suraj Vishwakarma  
-**Task:** Final Task – Network Security Assessment (Internship)
+**Author:** Suraj Vishwakarma 
 
 ---
 
