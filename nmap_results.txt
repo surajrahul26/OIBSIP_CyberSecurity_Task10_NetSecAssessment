@@ -1,0 +1,25 @@
+# Nmap 7.94SVN scan initiated Sat Jul 12 11:27:51 2025 as: nmap -sS -sV -O -oN nmap_results.txt 10.0.2.15
+Nmap scan report for 10.0.2.15
+Host is up (0.00017s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.4.59 ((Debian))
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=7/12%OT=80%CT=1%CU=42764%PV=Y%DS=0%DC=L%G=Y%TM=6872
+OS:7F0A%P=x86_64-pc-linux-gnu)SEQ(SP=100%GCD=1%ISR=108%TI=Z%CI=Z%II=I%TS=A)
+OS:SEQ(SP=FB%GCD=1%ISR=104%TI=Z%CI=Z%II=I%TS=A)SEQ(SP=FD%GCD=1%ISR=107%TI=Z
+OS:%CI=Z%II=I%TS=A)SEQ(SP=FF%GCD=1%ISR=107%TI=Z%CI=Z%II=I%TS=A)SEQ(SP=FF%GC
+OS:D=1%ISR=108%TI=Z%CI=Z%II=I%TS=A)OPS(O1=MFFD7ST11NW7%O2=MFFD7ST11NW7%O3=M
+OS:FFD7NNT11NW7%O4=MFFD7ST11NW7%O5=MFFD7ST11NW7%O6=MFFD7ST11)WIN(W1=8200%W2
+OS:=8200%W3=8200%W4=8200%W5=8200%W6=8200)ECN(R=Y%DF=Y%T=40%W=8200%O=MFFD7NN
+OS:SNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y
+OS:%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR
+OS:%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40
+OS:%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G
+OS:%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 0 hops
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Jul 12 11:28:10 2025 -- 1 IP address (1 host up) scanned in 19.13 seconds
